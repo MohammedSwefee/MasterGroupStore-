@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "4543023036",
+    "firebase_url": "https://mastergroup-f6698.firebaseio.com",
+    "project_id": "mastergroup-f6698",
+    "storage_bucket": "mastergroup-f6698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4543023036:android:022249f317368cecf2cdb9",
+        "android_client_info": {
+          "package_name": "com.mastergroup.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4543023036-9u7anfo6156brq3sqkqlo4nro7154o7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlyo7Z7U-LSTwpA6Cbs77KqTGIqNb45g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4543023036-9u7anfo6156brq3sqkqlo4nro7154o7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
