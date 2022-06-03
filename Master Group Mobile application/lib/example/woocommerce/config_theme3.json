@@ -1,0 +1,63 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "isBlur": true,
+      "showBackground": true,
+      "padding": 20.0,
+      "radius": 20.0,
+
+      "title": "Fluxstore Collections",
+      "fontSize": 26.0,
+      "isSafeArea": true,
+      "showSearch": true,
+
+      "items": [
+        {
+          "category": 208,
+          "image": "https://user-images.githubusercontent.com/1459805/62834035-2899b880-bc71-11e9-9ed8-4ce1790e0460.jpg"
+        },
+        {
+          "category": 23,
+          "image": "https://user-images.githubusercontent.com/1459805/62834034-2899b880-bc71-11e9-956b-64e6d0c35d46.jpg"
+        },
+        {
+          "category": 208,
+          "image": "https://user-images.githubusercontent.com/1459805/62834036-29324f00-bc71-11e9-9262-af0b8ceeba87.jpg"
+        }
+      ]
+    }
+  ],
+
+  "VerticalLayout": {
+    "layout": "pinterest",
+    "name": {
+      "en": "Recent Collections",
+      "ab": "مجموعات الرجل",
+      "vi": "Bộ sưu tập gần "
+    },
+    "image": ""
+  },
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "ProductListLayout": "list"
+  },
+  "TabBar": {
+    "Home": {
+      "isDisplay": true
+    },
+    "Category": {
+      "isDisplay": true
+    },
+    "Search": {
+      "isDisplay": true
+    },
+    "Cart": {
+      "isDisplay": true
+    },
+    "Profile": {
+      "isDisplay": true
+    }
+  }
+}
